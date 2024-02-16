@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm RodriiTech <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+<h1 align="center">Hi 👋, I'm RodriiTech <img height="40" src="![image](https://github.com/rrodrii013/rrodrii013/assets/155658289/5ed02ba8-641f-4679-a7ce-3f4c6e7abbc8)
+"></h1>
 <h3 align="center">A passionate Front-End developer from Uruguay</h3>
+
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-25-blue" />
+  <img src="https://img.shields.io/badge/Focus-JavaScript-yellow" />
+    <img src="https://img.shields.io/badge/Languages-English,Spanish%20%26%20Portuguese-red" />
 
 - 🔭 I’m currently working on **Freelance Projects**.
 
@@ -13,6 +20,7 @@
   
 - ⚡ What I like to do: While I do my projects, **I like show it in social medias like TikTok**.
 
+<h1> </h1>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
@@ -22,7 +30,7 @@
 ![Email](https://img.shields.io/badge/Email-rrodrii013%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
-
+<h1> </h1>
   
 </div>
 
@@ -39,8 +47,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-</p>
+
+<br>
+<br>
+<br>
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=rrodrii013&theme=react&show_icons=true&include_all_commits=true" />
@@ -51,4 +61,6 @@
 
 [RodriiTech](https://github.com/rrodrii013/)
 
+
+Last Edited on: 16/02/2024
 
