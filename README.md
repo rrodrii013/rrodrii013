@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Front-End developer from Uruguay</h3>
 
  <p align="center">
-<img src="https://img.shields.io/badge/Age-25-blue" />
+<img src="https://img.shields.io/badge/Age-22-blue" />
   <img src="https://img.shields.io/badge/Focus-JavaScript-yellow" />
     <img src="https://img.shields.io/badge/Languages-English,Spanish%20%26%20Portuguese-red" />
 
