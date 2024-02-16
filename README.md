@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/Focus-JavaScript-yellow" />
     <img src="https://img.shields.io/badge/Languages-English,Spanish%20%26%20Portuguese-red" />
 
+<br>
+<br>
+
 - 🔭 I’m currently working on **Freelance Projects**.
 
 - 🌱 I’m currently learning **JavaScript, HTML5 and CSS3**.
