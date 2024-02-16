@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm RodriiTech <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Front-End developer from Uruguay</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently working on **Freelance Projects**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 I’m currently learning **JavaScript, HTML5 and CSS3**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 👯 I’m looking to collaborate on **front-end projects**
 
-- 📫 How to reach me: **brantlauro@gmail.com**
+- 📫 How to reach me: **rrodrii013@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
