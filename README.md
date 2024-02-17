@@ -11,7 +11,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on **Freelance Projects**.
+- 🔭 I’m currently working on **Freelance and Personal Projects**.
 
 - 🌱 I’m currently learning **JavaScript, HTML5 and CSS3**.
 
